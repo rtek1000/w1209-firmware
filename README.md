@@ -2,7 +2,7 @@ Note: This is a backup repository. Updates and new features have been added, see
 
 https://github.com/rtek1000/W1209-firmware-modified
 
-- I found some bugs related to menu navigation, I haven't found the cause yet.
+- I found some bugs in the original code, related to menu navigation, I haven't found the cause yet.
 
 ----------------------
 
