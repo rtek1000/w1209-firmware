@@ -1,3 +1,9 @@
+Note: This is a backup repository. Updates and new features have been added, see here:
+
+https://github.com/rtek1000/W1209-firmware-modified
+
+----------------------
+
 # w1209-firmware
 The functional equivalent to the original firmware of "Digital Thermostat Module Model XH-W1209".
 
